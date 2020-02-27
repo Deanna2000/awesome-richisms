@@ -13,3 +13,4 @@ A list of the things I say over and over in case i forget any.
 
 *It's a big huge deal
 
+*Yeah, it's a thing
